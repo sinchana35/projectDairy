@@ -113,4 +113,17 @@
 > 
 * SSH tunel creation and file transfer
 ![ss1](/home/sinchana/Pictures/Screenshot from 2023-03-15 11-04-08.png)
-* dfsadf
+
+
+> # 15/03/2023
+
+* Python Data structures
+* Generators
+
+> # 17/03/2023
+
+* oops concepts
+
+> 23/03/2023
+
+*
